@@ -42,8 +42,31 @@ gray-500 #6B6B6B
 
 white */
 
+body {
+    background-color: #F4D04E;
+}
 
+/* css card  */
+#card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    width: 384px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 0 0 black;
+}
+
+#img-card {
+    border-radius: 10px;
+    padding: 24px;
+}
 
 /* frontend mentor css  */
 .attribution { font-size: 11px; text-align: center; }
