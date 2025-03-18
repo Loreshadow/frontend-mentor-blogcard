@@ -8,7 +8,7 @@
 }
 
 @font-face {
-    font-family: "Figtree Extra Bold preset2";
+    font-family: "Figtree Extra Bold preset4";
     src: url(../fonts/static/Figtree-ExtraBold.ttf);
     font-size: 0.875rem;
     line-height: 150%;
@@ -16,7 +16,7 @@
 }
 
 @font-face {
-    font-family: "Figtree Medium preset1";
+    font-family: "Figtree Medium preset2";
     src: url(../fonts/static/Figtree-Medium.ttf);
     font-size: 1rem;
     line-height: 150%;
@@ -24,7 +24,7 @@
 }
 
 @font-face {
-    font-family: "Figtree medium preset2";
+    font-family: "Figtree medium preset3";
     src: url(../fonts/static/Figtree-Medium.ttf);
     font-size: 0.875rem;
     line-height: 150%;
