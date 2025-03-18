@@ -1,7 +1,48 @@
 /* CSS RULES  */
+@font-face {
+    font-family: "Figtree Extra Bold preset1";
+    src: url(../fonts/static/Figtree-ExtraBold.ttf);
+    font-size: 1.5rem;
+    line-height: 150%;
+    letter-spacing: 0px;
+}
 
+@font-face {
+    font-family: "Figtree Extra Bold preset2";
+    src: url(../fonts/static/Figtree-ExtraBold.ttf);
+    font-size: 0.875rem;
+    line-height: 150%;
+    letter-spacing: 0px;
+}
+
+@font-face {
+    font-family: "Figtree Medium preset1";
+    src: url(../fonts/static/Figtree-Medium.ttf);
+    font-size: 1rem;
+    line-height: 150%;
+    letter-spacing: 0px;
+}
+
+@font-face {
+    font-family: "Figtree medium preset2";
+    src: url(../fonts/static/Figtree-Medium.ttf);
+    font-size: 0.875rem;
+    line-height: 150%;
+    letter-spacing: 0px;
+}
 
 /* CSS GLOBAL */
+
+/* color  */
+/* yellow #F4D04E
+
+gray-950 #111111
+
+gray-500 #6B6B6B
+
+white */
+
+
 
 
 /* frontend mentor css  */
